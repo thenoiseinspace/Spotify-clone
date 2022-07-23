@@ -1,7 +1,0 @@
-{
-  "name": "Spotify-Clone",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
